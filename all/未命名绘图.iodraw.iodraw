@@ -4,10 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xkUVbV7CTG3Tp3tugJae-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xkUVbV7CTG3Tp3tugJae-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="380" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xkUVbV7CTG3Tp3tugJae-1" target="xkUVbV7CTG3Tp3tugJae-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="190" width="540" height="180" as="geometry" />
@@ -34,7 +32,7 @@
           <mxGeometry x="100" y="405" width="540" height="355" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-16" value="&lt;font color=&quot;#030be2&quot;&gt;第二阶段：核心关键技术实现&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="405" width="230" height="40" as="geometry" />
+          <mxGeometry x="110" y="445" width="230" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
