@@ -147,6 +147,9 @@
         <mxCell id="xkUVbV7CTG3Tp3tugJae-59" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;软硬件联合调试&lt;/p&gt;&lt;p style=&quot;line-height: 150%;&quot;&gt;上位机与FPGA交互&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="873" width="120" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="840" width="540" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
