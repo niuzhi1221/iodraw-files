@@ -40,7 +40,7 @@
         <mxCell id="xkUVbV7CTG3Tp3tugJae-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="130" y="525" width="170" height="225" as="geometry" />
         </mxCell>
-        <mxCell id="xkUVbV7CTG3Tp3tugJae-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-28" value="路线一：软件层——模型轻量化与硬件适配" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="540" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
