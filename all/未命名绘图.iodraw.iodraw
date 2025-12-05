@@ -25,6 +25,9 @@
         <mxCell id="xkUVbV7CTG3Tp3tugJae-13" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;确定软硬协同方案&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="260" width="140" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xkUVbV7CTG3Tp3tugJae-15" target="xkUVbV7CTG3Tp3tugJae-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="405" width="540" height="405" as="geometry" />
         </mxCell>
@@ -124,7 +127,7 @@
           <mxGeometry x="436.5" y="725" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="830" width="540" height="216" as="geometry" />
+          <mxGeometry x="100" y="830" width="540" height="190" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-56" value="&lt;font color=&quot;#030be2&quot;&gt;第三阶段：异构系统搭建与集成&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="830" width="230" height="40" as="geometry" />
