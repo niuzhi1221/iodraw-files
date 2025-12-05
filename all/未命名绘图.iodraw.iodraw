@@ -25,9 +25,6 @@
         <mxCell id="xkUVbV7CTG3Tp3tugJae-13" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;确定软硬协同方案&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="240" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xkUVbV7CTG3Tp3tugJae-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xkUVbV7CTG3Tp3tugJae-5" target="xkUVbV7CTG3Tp3tugJae-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="405" width="540" height="355" as="geometry" />
         </mxCell>
