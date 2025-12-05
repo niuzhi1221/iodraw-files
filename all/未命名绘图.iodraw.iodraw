@@ -7,8 +7,8 @@
         <mxCell id="xkUVbV7CTG3Tp3tugJae-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="190" width="540" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="xkUVbV7CTG3Tp3tugJae-2" value="&lt;font color=&quot;#030be2&quot;&gt;第一阶段：基础研究与方案制定&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="190" width="230" height="40" as="geometry" />
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-2" value="&lt;font color=&quot;#030be2&quot;&gt;第一阶段：基础研究与方案制定&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xkUVbV7CTG3Tp3tugJae-4" target="xkUVbV7CTG3Tp3tugJae-5">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="480" y="240" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="405" width="540" height="180" as="geometry" />
+          <mxGeometry x="100" y="405" width="540" height="355" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-16" value="&lt;font color=&quot;#030be2&quot;&gt;第二阶段：核心关键技术实现&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="405" width="230" height="40" as="geometry" />
