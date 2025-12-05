@@ -26,7 +26,7 @@
           <mxGeometry x="480" y="240" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="405" width="540" height="355" as="geometry" />
+          <mxGeometry x="100" y="405" width="540" height="475" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-16" value="&lt;font color=&quot;#030be2&quot;&gt;第二阶段：核心关键技术实现&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="405" width="230" height="40" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="130" y="525" width="200" height="225" as="geometry" />
+          <mxGeometry x="130" y="525" width="200" height="295" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-28" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;软件层：模型轻量化与硬件适配&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="530" width="200" height="30" as="geometry" />
+          <mxGeometry x="125" y="525" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
