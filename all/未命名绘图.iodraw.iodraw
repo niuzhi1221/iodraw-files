@@ -13,8 +13,8 @@
         <mxCell id="xkUVbV7CTG3Tp3tugJae-2" value="&lt;font color=&quot;#030be2&quot;&gt;第一阶段：基础研究与方案制定&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="xkUVbV7CTG3Tp3tugJae-3">
           <mxGeometry width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xkUVbV7CTG3Tp3tugJae-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xkUVbV7CTG3Tp3tugJae-3">
-          <mxGeometry x="30" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-4" value="文献深度阅读&lt;br&gt;YOLO算法 &amp;amp; FPGA架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xkUVbV7CTG3Tp3tugJae-3">
+          <mxGeometry x="30" y="60" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
