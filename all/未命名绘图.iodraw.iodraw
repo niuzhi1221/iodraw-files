@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xkUVbV7CTG3Tp3tugJae-3" value="" style="group;fontColor=#0000FF;" vertex="1" connectable="0" parent="1">
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-3" value="" style="group;fontColor=#0000FF;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="100" y="190" width="570" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="xkUVbV7CTG3Tp3tugJae-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xkUVbV7CTG3Tp3tugJae-3">
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xkUVbV7CTG3Tp3tugJae-3">
           <mxGeometry width="570" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="xkUVbV7CTG3Tp3tugJae-2" value="&lt;font color=&quot;#030be2&quot;&gt;第一阶段：基础研究与方案制定&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="xkUVbV7CTG3Tp3tugJae-3">
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-2" value="&lt;font color=&quot;#030be2&quot;&gt;第一阶段：基础研究与方案制定&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="xkUVbV7CTG3Tp3tugJae-3">
           <mxGeometry width="230" height="40" as="geometry" />
         </mxCell>
       </root>
