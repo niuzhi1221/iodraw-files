@@ -31,6 +31,9 @@
         <mxCell id="xkUVbV7CTG3Tp3tugJae-16" value="&lt;font color=&quot;#030be2&quot;&gt;第二阶段：核心关键技术实现&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="405" width="230" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xkUVbV7CTG3Tp3tugJae-24" target="xkUVbV7CTG3Tp3tugJae-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-24" value="进入核心研发" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="330" y="445" width="80" height="80" as="geometry" />
         </mxCell>
@@ -54,6 +57,9 @@
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-31" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;非线性算子硬件友好化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
           <mxGeometry x="152.5" y="612.5" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xkUVbV7CTG3Tp3tugJae-32" target="xkUVbV7CTG3Tp3tugJae-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-32" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;算子融合与低比特量化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
           <mxGeometry x="152.5" y="670" width="155" height="40" as="geometry" />
