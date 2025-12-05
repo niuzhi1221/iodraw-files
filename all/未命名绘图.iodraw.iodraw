@@ -43,7 +43,7 @@
         <mxCell id="xkUVbV7CTG3Tp3tugJae-28" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;软件层：模型轻量化与硬件适配&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="125" y="525" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xkUVbV7CTG3Tp3tugJae-29" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;确定软硬协同方案&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-29" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;模型算子细粒度代价分析&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
           <mxGeometry x="155" y="570" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
