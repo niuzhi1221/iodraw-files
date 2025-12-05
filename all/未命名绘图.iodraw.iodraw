@@ -132,8 +132,11 @@
         <mxCell id="xkUVbV7CTG3Tp3tugJae-57" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;搭建异构验证环境&lt;/p&gt;&lt;p style=&quot;line-height: 150%;&quot;&gt;摄像头/PCIe/HDMI&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="873" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="xkUVbV7CTG3Tp3tugJae-58" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;高速接口与数据流优化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="873" width="120" height="130" as="geometry" />
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-58" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;高速接口与数据流优化&lt;/p&gt;&lt;p style=&quot;line-height: 150%;&quot;&gt;解决带宽同步与瓶颈&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="873" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-59" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;搭建异构验证环境&lt;/p&gt;&lt;p style=&quot;line-height: 150%;&quot;&gt;摄像头/PCIe/HDMI&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="883" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
