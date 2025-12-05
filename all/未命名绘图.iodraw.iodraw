@@ -11,7 +11,7 @@
           <mxGeometry width="570" height="200" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-2" value="第一阶段：基础研究与方案制定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="xkUVbV7CTG3Tp3tugJae-3">
-          <mxGeometry width="210" height="30" as="geometry" />
+          <mxGeometry y="100" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
