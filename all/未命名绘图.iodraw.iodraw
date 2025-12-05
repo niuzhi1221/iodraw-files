@@ -16,7 +16,7 @@
         <mxCell id="xkUVbV7CTG3Tp3tugJae-4" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;文献深度阅读&lt;br&gt;YOLO算法 &amp;amp; FPGA架构&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="xkUVbV7CTG3Tp3tugJae-3">
           <mxGeometry x="20" y="50" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xkUVbV7CTG3Tp3tugJae-5" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;现有工作复现与分析&lt;/p&gt;&lt;p style=&quot;line-height: 150%;&quot;&gt;识别计算冗余与瓶颈&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="xkUVbV7CTG3Tp3tugJae-3">
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-5" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;现有工作复现与分析&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;识别计算冗余与瓶颈&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="xkUVbV7CTG3Tp3tugJae-3">
           <mxGeometry x="200" y="50" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
