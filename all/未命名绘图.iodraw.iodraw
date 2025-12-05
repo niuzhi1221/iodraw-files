@@ -44,16 +44,16 @@
           <mxGeometry x="130" y="525" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-29" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;模型算子细粒度代价分析&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="565" width="155" height="40" as="geometry" />
+          <mxGeometry x="147.5" y="555" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-31" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;非线性算子硬件友好化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="622.5" width="155" height="40" as="geometry" />
+          <mxGeometry x="147.5" y="612.5" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-32" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;算子融合与低比特量化&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="680" width="155" height="40" as="geometry" />
+          <mxGeometry x="147.5" y="670" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xkUVbV7CTG3Tp3tugJae-33" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;输出：适合硬件部署的定点化轻量模型&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="740" width="155" height="40" as="geometry" />
+          <mxGeometry x="147.5" y="730" width="155" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
