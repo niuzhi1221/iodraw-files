@@ -129,8 +129,8 @@
         <mxCell id="xkUVbV7CTG3Tp3tugJae-56" value="&lt;font color=&quot;#030be2&quot;&gt;第三阶段：异构系统搭建与集成&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="830" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xkUVbV7CTG3Tp3tugJae-57" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;模型算子细粒度代价分析&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="870" width="120" height="40" as="geometry" />
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-57" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;搭建异构验证环境&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="870" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
