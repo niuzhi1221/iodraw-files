@@ -150,8 +150,8 @@
         <mxCell id="xkUVbV7CTG3Tp3tugJae-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="1040" width="540" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xkUVbV7CTG3Tp3tugJae-64" value="&lt;font color=&quot;#030be2&quot;&gt;第三阶段：异构系统搭建与集成&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="125" y="840" width="230" height="40" as="geometry" />
+        <mxCell id="xkUVbV7CTG3Tp3tugJae-64" value="&lt;font color=&quot;#030be2&quot;&gt;第四阶段：验证、评估与总结&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1040" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
