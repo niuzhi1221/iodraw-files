@@ -155,7 +155,7 @@
         <mxCell id="uM_sQJ5UstTrKJrjSkw_-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="1040" width="880" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="uM_sQJ5UstTrKJrjSkw_-10" value="&lt;font color=&quot;#030be2&quot;&gt;第四阶段：验证、评估与总结&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;container=0;" vertex="1" parent="1">
+        <mxCell id="uM_sQJ5UstTrKJrjSkw_-10" value="&lt;font color=&quot;#030be2&quot; style=&quot;font-size: 16px;&quot;&gt;第四阶段：验证、评估与总结&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="1040" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uM_sQJ5UstTrKJrjSkw_-11" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;性能评估，实现高能效、高灵活性的YOLO加速系统与论文&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;dashed=1;fontSize=21;" vertex="1" parent="1">
